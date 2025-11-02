@@ -1,4 +1,4 @@
-## Hi👋 , I'm Sanju Dhiman
+## Hi👋 , I'm Kartik Dhiman
 
 ## About me
 I'm a CSE student learning Python and data structure and algorithms. I love building small projects and improving everyday.
